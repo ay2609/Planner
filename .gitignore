@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+build/
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+vcpkg_installed/
+*.a
